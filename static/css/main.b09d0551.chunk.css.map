@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,OACE,cAAe,CACf,UAAY,CACZ,sBACF,CAEA,4BAEE,SACF","file":"main.b09d0551.chunk.css","sourcesContent":[".arrow {\n  cursor: pointer;\n  opacity: 0.5;\n  transition: opacity 0.2s;\n}\n\n.arrow:hover,\n.arrow--active {\n  opacity: 1;\n}\n"]}
